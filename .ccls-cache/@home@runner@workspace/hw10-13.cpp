@@ -1,5 +1,5 @@
 //Lab 9-2.cpp - displays two monthly car payments
-//Created/revised by <your name> on <current date>
+//Created/revised by <josh> on <current date>
 
 #include <iostream>
 #include <cmath>

@@ -1,5 +1,5 @@
 //Lab10-2.cpp - displays total owed
-//Created/revised by <josh> on <current date>\
+//Created/revised by <your name> on <current date>
 
 #include <iostream>
 #include <iomanip>
